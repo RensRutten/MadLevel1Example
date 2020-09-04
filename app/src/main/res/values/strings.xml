@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MadLevel1Example</string>
+    <string name="Animal_Label">What kind of animal is this?</string>
+    <string name="Answer_hint">Hint</string>
+    <string name="Confirm_Button">Confirm</string>
+    <string name="Answer_Hint">Species</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+
+</resources>
